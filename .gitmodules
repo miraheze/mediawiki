@@ -1493,3 +1493,8 @@
 	url = https://github.com/wikimedia/mediawiki-extensions-PageForms
 	branch = master
 	ignore = dirty
+[submodule "extensions/ArticlePlaceholder"]
+	path = extensions/ArticlePlaceholder
+	url = https://github.com/wikimedia/mediawiki-extensions-ArticlePlaceholder
+	branch = REL1_36
+	ignore = dirty
